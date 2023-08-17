@@ -5,4 +5,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                     Change the Front Img 
 
-<img width="960" alt="Final_project_image2" src="https://github.com/nitingithubNj/amazonWebsite_project/assets/98076310/9bf382fa-98d8-4f0a-88d7-8e7250d1af94">
+<img width="960" alt="amazon 2" src="https://github.com/RAHUL-Nj/amazonWebsite_project/assets/98076310/c2d0cd44-84b9-4156-8a5f-ed0b33291434">
+
