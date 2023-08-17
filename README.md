@@ -1,5 +1,6 @@
 # AmazonWebsite_project
-<img width="960" alt="Final_project_image" src="https://github.com/nitingithubNj/amazonWebsite_project/assets/98076310/88e439da-f808-408e-a281-1a7d62d36f5f">
+<img width="960" alt="amazon" src="https://github.com/RAHUL-Nj/amazonWebsite_project/assets/98076310/ce6a10a1-cf7d-4a86-8cb0-b81f168f1b00">
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                     Change the Front Img 
